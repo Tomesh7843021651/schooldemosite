@@ -1,0 +1,743 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About Us",
+    "academics": "Academics",
+    "facilities": "Facilities",
+    "gallery": "Gallery",
+    "admissions": "Admissions",
+    "contact": "Contact",
+    "applyNow": "Apply Now",
+    "menu": "Menu",
+    "menuOpen": "Open menu",
+    "menuClose": "Close menu",
+    "languageLabel": "Language",
+    "tagline": "English Medium School"
+  },
+  "languages": {
+    "en": "English",
+    "hi": "Hindi",
+    "mr": "Marathi"
+  },
+  "common": {
+    "backToHome": "Back to home",
+    "exploreMore": "Explore more",
+    "notFound": {
+      "eyebrow": "404",
+      "title": "We couldn't find that page",
+      "description": "The page may have moved, the link may be outdated, or you may have followed an old admission link. Head back to the homepage or pick a section from the menu.",
+      "primaryCta": "Back to home",
+      "secondaryCta": "Talk to admissions"
+    }
+  },
+  "home": {
+    "hero": {
+      "badge": "Admissions Open 2026 – 27",
+      "headline": "Nurturing Young Minds,",
+      "headlineHighlight": "Building Future Leaders",
+      "description": "A premium English-medium school in Arni delivering academic excellence, character development and a safe, nurturing campus from Pre-Primary through Secondary.",
+      "primaryCta": "Apply for Admission",
+      "secondaryCta": "Take a Campus Tour",
+      "trust": {
+        "established": "Established 2001",
+        "students": "1500+ Students",
+        "board": "State Board"
+      },
+      "visual": {
+        "watermark": "N",
+        "eyebrow": "Welcome to",
+        "campus": "Narayanleela Campus",
+        "subtitle": "A nurturing space for young leaders",
+        "floatingResult": "Board Result",
+        "floatingResultValue": "98%",
+        "floatingResultNote": "Class X · 2024"
+      }
+    },
+    "stats": {
+      "eyebrow": "By the Numbers",
+      "items": {
+        "yearsLabel": "Years of Excellence",
+        "studentsLabel": "Active Students",
+        "teachersLabel": "Qualified Teachers",
+        "resultsLabel": "Board Results"
+      }
+    },
+    "whyChooseUs": {
+      "eyebrow": "Why Narayanleela",
+      "title": "An education parents trust, children love",
+      "description": "Six pillars that make Narayanleela the school of choice for families across Arni — built on academic rigour, safety and genuine care for every student.",
+      "items": {
+        "excellence": {
+          "title": "Academic Excellence",
+          "description": "A board-aligned curriculum, regular assessments and small-group attention from Pre-Primary through Secondary."
+        },
+        "safety": {
+          "title": "Safe & Secure Campus",
+          "description": "CCTV-monitored premises, trained staff, sanitized facilities and a caring environment for every child."
+        },
+        "faculty": {
+          "title": "Qualified Faculty",
+          "description": "Subject-trained, certified teachers committed to nurturing each child's individual potential."
+        },
+        "facilities": {
+          "title": "Modern Facilities",
+          "description": "Smart classrooms, science and computer labs, library, sports grounds and safe school transport."
+        },
+        "holistic": {
+          "title": "Holistic Development",
+          "description": "Sports, music, dance, arts and community service that round out classroom learning."
+        },
+        "values": {
+          "title": "Strong Values",
+          "description": "Discipline, respect, integrity and confidence — the foundation of every Narayanleela student."
+        }
+      }
+    },
+    "principalMessage": {
+      "eyebrow": "From the Principal's Desk",
+      "title": "A personal note to every parent",
+      "description": "On choosing Narayanleela, putting character before grades, and the school you helped us build.",
+      "principal": {
+        "name": "Mr. Rajesh S. Deshmukh",
+        "title": "Principal, M.A., B.Ed.",
+        "experience": "25+ Years in Education",
+        "initials": "RD",
+        "yearsBadgeValue": "20+",
+        "yearsBadgeLabel": "Years serving Arni"
+      },
+      "message": {
+        "paragraph1": "Dear Parents, at Narayanleela we believe every child carries within them the seeds of extraordinary potential. Our role — yours at home, ours at school — is to nurture those seeds with care, patience and unwavering belief.",
+        "paragraph2": "For over two decades, our campus has been a second home to thousands of children. We have watched shy first-graders blossom into confident speakers and quiet observers become tomorrow's leaders.",
+        "paragraph3": "We do not chase rankings; we chase character. We measure success in the kindness, curiosity and courage our students carry into the world.",
+        "signoff": "With warm regards,",
+        "cta": "Read full message"
+      }
+    },
+    "academicPreview": {
+      "eyebrow": "Academic Programme",
+      "title": "A learning journey from age 3 to 16",
+      "description": "Three carefully designed phases that meet every child where they are — and lift them where they can go.",
+      "exploreCta": "Explore curriculum",
+      "viewAllCta": "View all academic programmes",
+      "items": {
+        "prePrimary": {
+          "title": "Pre-Primary",
+          "ageRange": "Ages 3 – 5",
+          "tagline": "Play-based foundation",
+          "description": "Nursery, LKG and UKG built around play, songs and storytelling — where curiosity becomes confidence.",
+          "features": {
+            "f1": "Activity-led learning",
+            "f2": "Caring teacher ratio",
+            "f3": "Daily reading hour"
+          }
+        },
+        "primary": {
+          "title": "Primary",
+          "ageRange": "Grades 1 – 5",
+          "tagline": "Strong academic core",
+          "description": "Foundational English, mathematics and science with project-based exposure to arts, sports and Indian culture.",
+          "features": {
+            "f1": "Concept-first teaching",
+            "f2": "Weekly assessments",
+            "f3": "Co-curricular every day"
+          }
+        },
+        "secondary": {
+          "title": "Secondary",
+          "ageRange": "Grades 6 – 10",
+          "tagline": "Board excellence with character",
+          "description": "Disciplined board preparation, mentoring sessions and value-led classrooms — readying students for boards, college and life.",
+          "features": {
+            "f1": "Board-aligned syllabus",
+            "f2": "Subject expert mentors",
+            "f3": "Career & life skills"
+          }
+        }
+      }
+    },
+    "facilitiesPreview": {
+      "eyebrow": "Campus & Facilities",
+      "title": "Built for learning, made for safety",
+      "description": "Modern infrastructure, thoughtful design and trained staff — every facility on campus is part of a single promise to your child's safety and growth.",
+      "viewAllCta": "Explore all facilities",
+      "featuredTag": "Featured",
+      "items": {
+        "smartClassrooms": {
+          "title": "Smart Classrooms",
+          "description": "Interactive boards, visual learning aids and ergonomic seating — concepts come alive, not memorised."
+        },
+        "computerLab": {
+          "title": "Computer Lab",
+          "description": "Modern systems, supervised internet and structured digital-literacy curriculum from Grade 1."
+        },
+        "scienceLab": {
+          "title": "Science Lab",
+          "description": "Safe, fully equipped lab where Physics, Chemistry and Biology move from textbook to experiment."
+        },
+        "library": {
+          "title": "Library",
+          "description": "5000+ titles in English, Hindi and Marathi — fiction, reference and competitive exam material."
+        },
+        "sports": {
+          "title": "Sports Ground",
+          "description": "Cricket, kabaddi, athletics, chess and yoga — indoor and outdoor sports every day after school."
+        },
+        "transportation": {
+          "title": "Safe Transport",
+          "description": "GPS-tracked school buses with trained drivers, female attendants and verified routes across Arni."
+        }
+      }
+    },
+    "studentLife": {
+      "eyebrow": "Beyond the Classroom",
+      "title": "A campus that comes alive every day",
+      "description": "Sport, music, art and service — student life at Narayanleela is designed to grow confidence, character and joy alongside academics.",
+      "viewAllCta": "See more from campus",
+      "items": {
+        "sports": {
+          "tag": "Sports",
+          "title": "Athletes in the making",
+          "description": "Cricket, kabaddi, athletics and yoga — daily practice with trained coaches on safe, supervised grounds."
+        },
+        "arts": {
+          "tag": "Performing Arts",
+          "title": "Stages, songs and stories",
+          "description": "Music, dance and drama programmes that build expression, teamwork and stage confidence from a young age."
+        },
+        "culture": {
+          "tag": "Culture",
+          "title": "Festivals worth celebrating",
+          "description": "Diwali, Republic Day, Annual Day and Marathi cultural events — moments that root students in heritage and community."
+        },
+        "outdoors": {
+          "tag": "Outdoors",
+          "title": "Learning beyond walls",
+          "description": "Field trips, nature walks, community service days and inter-school visits — curiosity carried into the real world."
+        }
+      }
+    },
+    "achievements": {
+      "eyebrow": "Recognitions",
+      "title": "Two decades of measurable results",
+      "description": "Boards, sports, arts and inter-school competitions — milestones that quietly speak for our students' work.",
+      "items": {
+        "boardResults": {
+          "year": "2024",
+          "category": "Academics",
+          "title": "98% Class X Board Pass Rate",
+          "description": "A decade-long streak of strong board results — with a growing share of distinctions every year."
+        },
+        "districtSports": {
+          "year": "2023",
+          "category": "Sports",
+          "title": "District Athletics Champions",
+          "description": "Eleven medals at the district inter-school athletics meet — including five golds across U-14 and U-17 events."
+        },
+        "culturalExcellence": {
+          "year": "2023",
+          "category": "Culture",
+          "title": "State Cultural Award",
+          "description": "Recognised by the Maharashtra cultural board for sustained excellence in school theatre and traditional arts."
+        },
+        "olympiads": {
+          "year": "2024",
+          "category": "Olympiads",
+          "title": "Olympiad National Rankers",
+          "description": "Three students ranked in the national top 1% across the International Mathematics and English Olympiads."
+        }
+      }
+    },
+    "events": {
+      "eyebrow": "Upcoming Events",
+      "title": "What's happening on campus",
+      "description": "Open houses, parent meets, annual celebrations and inter-school competitions — a quick look at what's coming up.",
+      "viewAllCta": "Full calendar",
+      "registerCta": "Reserve a seat",
+      "learnMoreCta": "Learn more",
+      "items": {
+        "openHouse": {
+          "tag": "Open House",
+          "title": "Admissions Open House 2026 – 27",
+          "description": "Walk through our campus, meet teachers and the principal, and ask every question on your mind — informal, unhurried, no commitment.",
+          "day": "08",
+          "month": "Mar",
+          "year": "2026",
+          "time": "10:00 AM – 1:00 PM",
+          "venue": "Narayanleela Main Hall"
+        },
+        "annualDay": {
+          "tag": "Cultural",
+          "title": "Annual Day Celebrations",
+          "description": "A full evening of music, dance, drama and student awards.",
+          "day": "12",
+          "month": "Apr",
+          "year": "2026",
+          "venue": "Open-Air Theatre"
+        },
+        "scienceFair": {
+          "tag": "Academic",
+          "title": "Inter-School Science Fair",
+          "description": "Grades 6-10 showcase live experiments and innovation projects.",
+          "day": "04",
+          "month": "May",
+          "year": "2026",
+          "venue": "Science Block"
+        },
+        "sportsDay": {
+          "tag": "Sports",
+          "title": "Annual Sports Day",
+          "description": "Athletics, kabaddi finals and the much-loved house relay.",
+          "day": "15",
+          "month": "Jun",
+          "year": "2026",
+          "venue": "Sports Ground"
+        }
+      }
+    },
+    "galleryPreview": {
+      "eyebrow": "Glimpses",
+      "title": "Moments from our campus",
+      "description": "A short scroll through classrooms, celebrations and student life — captured as it unfolds.",
+      "viewAllCta": "Open full gallery",
+      "items": {
+        "t1": { "tag": "Campus", "title": "Morning at the main hall" },
+        "t2": { "tag": "Classroom", "title": "Concept in action" },
+        "t3": { "tag": "Sports", "title": "After-school practice" },
+        "t4": { "tag": "Annual Day", "title": "Stage rehearsals" },
+        "t5": { "tag": "Library", "title": "Quiet hour" },
+        "t6": { "tag": "Lab", "title": "Hands-on science" },
+        "t7": { "tag": "Cultural", "title": "Festival of colours" },
+        "t8": { "tag": "Outdoors", "title": "Sports day finals" },
+        "t9": { "tag": "Community", "title": "Service week" }
+      }
+    },
+    "testimonials": {
+      "eyebrow": "Parent Stories",
+      "title": "Words from the families we serve",
+      "description": "Honest reflections from parents whose children call Narayanleela home — five days a week, twelve months a year.",
+      "ratingValue": "4.9",
+      "ratingMax": "5",
+      "ratingLabel": "from 800+ parent reviews",
+      "items": {
+        "t1": {
+          "quote": "Our daughter started here as a shy three-year-old. Today she debates in front of three hundred peers. Whatever the teachers do, it works.",
+          "name": "Mrs. Sushma Patil",
+          "relationship": "Parent of Avni, Grade 6",
+          "initials": "SP"
+        },
+        "t2": {
+          "quote": "What sets Narayanleela apart is how the staff actually know each child by name, by mood, by history. That makes all the difference.",
+          "name": "Mr. Vikram Sawant",
+          "relationship": "Parent of Aditya, Grade 9",
+          "initials": "VS"
+        },
+        "t3": {
+          "quote": "The board results made the headlines — but it's the values, the discipline and the quiet confidence we see at home that we are most grateful for.",
+          "name": "Mrs. Anjali Kulkarni",
+          "relationship": "Parent of Riya & Aarav, Grade X & Grade 4",
+          "initials": "AK"
+        }
+      }
+    },
+    "admissionCta": {
+      "eyebrow": "Admissions Open 2026 – 27",
+      "title": "Begin your child's Narayanleela journey",
+      "titleHighlight": "today.",
+      "description": "Walk through our campus, meet our teachers and see your child's future being built. No forms upfront, no pressure — just an honest conversation about your child.",
+      "trust": {
+        "reply": "Reply within 24 hours",
+        "tour": "Personal campus tour",
+        "noPressure": "No commitment to apply"
+      },
+      "primaryCta": "Apply for Admission",
+      "secondaryCta": "Talk on WhatsApp",
+      "contact": {
+        "callLabel": "Call Admissions",
+        "mailLabel": "Email Admissions",
+        "hoursLabel": "Office Hours"
+      }
+    }
+  },
+  "pages": {
+    "about": {
+      "banner": {
+        "eyebrow": "About Narayanleela",
+        "title": "A school built on stories, shaped by trust",
+        "description": "For over two decades Narayanleela has been a second home to thousands of children in Arni — a campus where character is built one conversation, one classroom, one milestone at a time."
+      },
+      "story": {
+        "eyebrow": "Our Story",
+        "title": "How we began, why we stay",
+        "paragraph1": "Narayanleela English Medium School opened its doors in 2001 with a small group of teachers, a hand-painted board and twenty-three curious children. The promise was simple: an English-medium education rooted in Indian values, accessible to families across Arni.",
+        "paragraph2": "Two decades on, that promise still defines us. The classrooms are larger and the syllabus is broader — but the everyday choice we make as educators has not changed. We measure success in the kindness, curiosity and courage our students carry with them.",
+        "paragraph3": "Today over 1,500 students study with us across Pre-Primary, Primary and Secondary. Eighty teachers know each child by name. The same campus that began as a single building now spans smart classrooms, science and computer labs, a library, sports grounds and one of the safest school-transport fleets in the district."
+      },
+      "vision": {
+        "eyebrow": "Our Vision",
+        "title": "Confident learners, thoughtful citizens",
+        "description": "To nurture an environment where every child becomes a confident learner, a thoughtful citizen and a kind human being — ready for the world that's coming, not the one that was."
+      },
+      "mission": {
+        "eyebrow": "Our Mission",
+        "title": "An education with academics and integrity",
+        "description": "To deliver a board-aligned curriculum supported by structured assessment, modern facilities and trained faculty — wrapped in a campus culture of safety, respect and curiosity that prepares students for boards, college and life beyond."
+      },
+      "values": {
+        "eyebrow": "Core Values",
+        "title": "Six principles that guide every classroom",
+        "description": "Whether we are teaching a poem, hosting Annual Day or resolving a small disagreement on the playground — these are the values our staff and students return to.",
+        "items": {
+          "respect": {
+            "title": "Respect",
+            "description": "For self, for peers, for elders and for the campus we share."
+          },
+          "discipline": {
+            "title": "Discipline",
+            "description": "The quiet, daily kind — punctuality, preparation and consistent effort."
+          },
+          "curiosity": {
+            "title": "Curiosity",
+            "description": "Children who ask the next question, not just answer the first one."
+          },
+          "integrity": {
+            "title": "Integrity",
+            "description": "Honesty in work and in word — even when nobody is watching."
+          },
+          "service": {
+            "title": "Service",
+            "description": "Education is a gift; we teach our students to give it back."
+          },
+          "courage": {
+            "title": "Courage",
+            "description": "To try, to fail, to ask for help and to try again."
+          }
+        }
+      },
+      "timeline": {
+        "eyebrow": "Milestones",
+        "title": "A journey, year by year",
+        "items": {
+          "y1": {
+            "year": "2001",
+            "title": "Founding year",
+            "description": "Narayanleela opened with 23 students, four teachers and a single classroom block."
+          },
+          "y2": {
+            "year": "2008",
+            "title": "First board batch",
+            "description": "Our first Class X cohort completed boards with a 100% pass rate."
+          },
+          "y3": {
+            "year": "2014",
+            "title": "Smart classrooms",
+            "description": "Every classroom upgraded with interactive boards and visual learning aids."
+          },
+          "y4": {
+            "year": "2019",
+            "title": "Sports excellence",
+            "description": "District athletics championship — eleven medals across U-14 and U-17."
+          },
+          "y5": {
+            "year": "2024",
+            "title": "1,500+ students",
+            "description": "Three Pre-Primary sections, two streams from Grade 1 onward and 80 teachers on staff."
+          }
+        }
+      },
+      "leadership": {
+        "eyebrow": "Leadership",
+        "title": "The people leading the way",
+        "description": "Our leadership team brings together decades of classroom experience, academic research and unwavering commitment to children."
+      }
+    },
+    "academics": {
+      "banner": {
+        "eyebrow": "Academic Programme",
+        "title": "A curriculum that grows with your child",
+        "description": "From play-based foundation to board-focused mastery — three carefully structured phases, taught by subject-trained faculty, with regular assessment and individual attention."
+      },
+      "levels": {
+        "eyebrow": "Our Phases",
+        "title": "Three phases, one journey",
+        "description": "Each phase is structured around what children at that age actually need — emotionally, academically and developmentally."
+      },
+      "curriculum": {
+        "eyebrow": "Curriculum",
+        "title": "Subjects we teach",
+        "description": "A board-aligned syllabus delivered with a strong reading culture and project-based exposure to arts, sports and the world outside the classroom.",
+        "items": {
+          "english": { "title": "English", "description": "Reading, comprehension, grammar and creative writing — daily." },
+          "math": { "title": "Mathematics", "description": "Concept-first teaching with structured practice and weekly assessment." },
+          "science": { "title": "Science", "description": "Physics, Chemistry and Biology with lab work from Grade 6." },
+          "social": { "title": "Social Studies", "description": "History, Geography, Civics and current affairs — informed citizens, not just exam takers." },
+          "languages": { "title": "Languages", "description": "Hindi and Marathi alongside English, with regional poetry, theatre and culture." },
+          "arts": { "title": "Arts & Crafts", "description": "Drawing, painting, clay, music and dance for every age group." },
+          "computer": { "title": "Computer Literacy", "description": "Structured digital-literacy curriculum from Grade 1 onward." },
+          "physical": { "title": "Physical Education", "description": "Cricket, kabaddi, athletics, chess and daily yoga — every student, every term." }
+        }
+      },
+      "methodology": {
+        "eyebrow": "Methodology",
+        "title": "How we teach",
+        "description": "Pedagogy that respects the child, the subject and the classroom — all at once.",
+        "items": {
+          "concept": {
+            "title": "Concept first",
+            "description": "We teach the 'why' before the 'how'. Concepts are introduced through stories, visuals and questions before formulas."
+          },
+          "practice": {
+            "title": "Structured practice",
+            "description": "Weekly worksheets and short, frequent assessments build retention without exam anxiety."
+          },
+          "voice": {
+            "title": "Every voice heard",
+            "description": "Small group attention, regular oral participation and one-on-one mentoring — especially at the secondary level."
+          },
+          "feedback": {
+            "title": "Honest feedback",
+            "description": "Parents receive monthly written feedback that goes beyond marks — what's working, what needs attention, what's next."
+          }
+        }
+      },
+      "assessment": {
+        "eyebrow": "Assessment",
+        "title": "How we measure progress",
+        "description": "Short, frequent and useful — not stressful exam marathons.",
+        "items": {
+          "daily": { "title": "Daily class work", "description": "Concept checks and oral participation tracked by every subject teacher." },
+          "weekly": { "title": "Weekly worksheets", "description": "Short worksheets help students consolidate before moving on." },
+          "term": { "title": "Term examinations", "description": "Two structured term-end exams aligned with board patterns from Grade 5 onward." },
+          "report": { "title": "Monthly reports", "description": "Written reports for parents — academics, behaviour, participation and one note from the class teacher." }
+        }
+      }
+    },
+    "facilities": {
+      "banner": {
+        "eyebrow": "Campus & Facilities",
+        "title": "Spaces designed for learning, safety and growth",
+        "description": "Smart classrooms, structured labs, a library that's quietly busy, sports grounds that come alive after school — every facility on campus is built around a single promise."
+      },
+      "grid": {
+        "eyebrow": "Facilities",
+        "title": "What our campus offers"
+      },
+      "safety": {
+        "eyebrow": "Safety First",
+        "title": "Safety isn't a feature, it's the foundation",
+        "description": "Every parent should be able to send their child to school with peace of mind. These are the standards we hold ourselves to — every day, not just on inspection day.",
+        "items": {
+          "cctv": { "title": "CCTV-monitored campus", "description": "Live monitoring across classrooms, corridors, entry gates and playgrounds." },
+          "staff": { "title": "Trained, verified staff", "description": "Background checks, regular training and a clear code of conduct for every adult on campus." },
+          "medical": { "title": "On-site medical room", "description": "A trained school nurse, basic medication and a clear escalation protocol." },
+          "transport": { "title": "GPS-tracked transport", "description": "School buses with trained drivers, female attendants and parent-app live tracking." },
+          "hygiene": { "title": "Daily hygiene protocol", "description": "Sanitised classrooms, washrooms cleaned multiple times daily and safe drinking water on every floor." },
+          "evac": { "title": "Practised drills", "description": "Quarterly fire and earthquake drills — calm, rehearsed and child-friendly." }
+        }
+      }
+    },
+    "gallery": {
+      "banner": {
+        "eyebrow": "Gallery",
+        "title": "Moments from our campus, captured as they unfold",
+        "description": "A scroll through classrooms, celebrations and student life — the everyday rhythm of Narayanleela, photographed by our staff."
+      },
+      "photos": {
+        "eyebrow": "Photo Gallery",
+        "title": "Photographs"
+      },
+      "videos": {
+        "eyebrow": "Video Gallery",
+        "title": "Short films & highlights",
+        "description": "Annual Day clips, classroom moments and event recaps. Tap a tile to play.",
+        "items": {
+          "v1": { "title": "Annual Day 2024", "duration": "3:12" },
+          "v2": { "title": "Sports Day finals", "duration": "1:45" },
+          "v3": { "title": "Campus walk-through", "duration": "2:30" },
+          "v4": { "title": "Inter-school science fair", "duration": "2:08" }
+        }
+      }
+    },
+    "admissions": {
+      "banner": {
+        "eyebrow": "Admissions 2026 – 27",
+        "title": "Begin your child's journey with us",
+        "description": "Open admissions for Pre-Primary through Secondary. Visit our campus, ask any question, and decide at your own pace — there is no commitment to apply."
+      },
+      "whyJoin": {
+        "eyebrow": "Why Narayanleela",
+        "title": "Four reasons families choose us",
+        "items": {
+          "results": { "title": "Strong board results", "description": "98% Class X pass rate, with a growing share of distinctions every year." },
+          "safety": { "title": "Safe campus", "description": "CCTV, trained staff, GPS-tracked transport — safety as a baseline, not a feature." },
+          "people": { "title": "Teachers who care", "description": "Subject-trained faculty who know each child by name, mood and history." },
+          "value": { "title": "Honest value", "description": "Premium education at fees that don't put pressure on families." }
+        }
+      },
+      "process": {
+        "eyebrow": "Admission Process",
+        "title": "Four simple steps",
+        "items": {
+          "s1": { "step": "01", "title": "Inquiry", "description": "Reach out by phone, WhatsApp or the form below. We respond within 24 hours." },
+          "s2": { "step": "02", "title": "Campus visit", "description": "Walk through classrooms, meet the principal and ask everything on your mind." },
+          "s3": { "step": "03", "title": "Application", "description": "Complete a short application form with your child's details and previous records." },
+          "s4": { "step": "04", "title": "Welcome", "description": "We confirm admission, share the joining kit and welcome your child to Narayanleela." }
+        }
+      },
+      "eligibility": {
+        "eyebrow": "Eligibility",
+        "title": "Age criteria by grade",
+        "description": "Ages are as on 1 June of the admission year. Slight variations may be allowed on a case-by-case basis.",
+        "columns": {
+          "grade": "Grade",
+          "age": "Age (years)"
+        },
+        "items": {
+          "nursery": { "grade": "Nursery", "age": "3 – 4" },
+          "lkg": { "grade": "LKG", "age": "4 – 5" },
+          "ukg": { "grade": "UKG", "age": "5 – 6" },
+          "g1": { "grade": "Grade 1", "age": "6 – 7" },
+          "g5": { "grade": "Grade 5", "age": "10 – 11" },
+          "g10": { "grade": "Grade 10", "age": "15 – 16" }
+        }
+      },
+      "documents": {
+        "eyebrow": "Required Documents",
+        "title": "What to bring along",
+        "items": {
+          "d1": "Birth certificate (original + copy)",
+          "d2": "Aadhaar card (student + both parents)",
+          "d3": "Previous school transfer / leaving certificate",
+          "d4": "Last academic report card",
+          "d5": "Address proof (utility bill / rent agreement)",
+          "d6": "Four recent passport-size photographs",
+          "d7": "Medical / vaccination record",
+          "d8": "Caste certificate (if applicable)"
+        }
+      },
+      "faq": {
+        "eyebrow": "FAQ",
+        "title": "Questions parents often ask",
+        "items": {
+          "q1": {
+            "question": "When does the admission window open?",
+            "answer": "Admissions for the 2026 – 27 academic year are open from January and continue until seats are filled. Pre-Primary fills the fastest, so earlier inquiries help."
+          },
+          "q2": {
+            "question": "Is there an entrance test?",
+            "answer": "Pre-Primary and Grades 1 – 5 do not require a written test — only an informal conversation with the child. Grades 6 – 10 include a short subject-knowledge assessment to place students in the right group."
+          },
+          "q3": {
+            "question": "Is school transport available?",
+            "answer": "Yes. GPS-tracked buses with trained drivers and female attendants cover most routes across Arni. Routes and fee details are shared at the inquiry stage."
+          },
+          "q4": {
+            "question": "What is the medium of instruction?",
+            "answer": "English is the primary medium across all subjects except language classes. Hindi and Marathi are taught as full subjects."
+          },
+          "q5": {
+            "question": "What is the typical class size?",
+            "answer": "Pre-Primary classes are capped at 25 students with one teacher and one assistant. Primary and Secondary sections range from 30 to 35 students per class."
+          },
+          "q6": {
+            "question": "Do you offer scholarships?",
+            "answer": "Yes — we have a small scholarship pool for academically deserving students from families with financial need. Please ask about it during your campus visit."
+          }
+        }
+      },
+      "inquiry": {
+        "eyebrow": "Get In Touch",
+        "title": "Ready to start the conversation?",
+        "description": "Pick the channel that suits you — WhatsApp for quick questions, phone for a longer chat, or a campus visit when you're ready.",
+        "callCta": "Call admissions",
+        "whatsappCta": "WhatsApp us",
+        "visitCta": "Plan a visit"
+      }
+    },
+    "contact": {
+      "banner": {
+        "eyebrow": "Contact Us",
+        "title": "We'd love to hear from you",
+        "description": "Questions about admissions, fees, transport or just curious about the campus? Reach out — we usually reply within a working day."
+      },
+      "details": {
+        "eyebrow": "Reach Us",
+        "title": "Contact details",
+        "phoneLabel": "Phone",
+        "emailLabel": "Email",
+        "addressLabel": "Address",
+        "hoursLabel": "Office hours",
+        "socialLabel": "Find us online"
+      },
+      "form": {
+        "eyebrow": "Send a Message",
+        "title": "Drop us a note",
+        "description": "Fill in the form and our admissions team will get back to you. Required fields are marked with an asterisk.",
+        "fields": {
+          "name": "Your name",
+          "email": "Email address",
+          "phone": "Phone number",
+          "subject": "Subject",
+          "message": "Your message"
+        },
+        "subjects": {
+          "admission": "Admission inquiry",
+          "fees": "Fees & scholarships",
+          "transport": "Transport & routes",
+          "visit": "Plan a campus visit",
+          "other": "Something else"
+        },
+        "submit": "Send message",
+        "note": "This is a placeholder form. Submissions are not yet wired up.",
+        "successTitle": "Thank you",
+        "successBody": "We've received your message and will reply within one working day."
+      },
+      "map": {
+        "eyebrow": "Find Us",
+        "title": "Our campus location",
+        "directionsCta": "Get directions"
+      }
+    }
+  },
+  "footer": {
+    "mission": "Empowering young minds through excellence in education, character building and academic achievement. A safe, nurturing campus where every child becomes a confident learner and a thoughtful leader.",
+    "quickLinks": "Quick Links",
+    "admissions": "Admissions",
+    "admissionsLinks": {
+      "apply": "Apply Now",
+      "process": "Admission Process",
+      "fees": "Fee Structure",
+      "faq": "Admission FAQ"
+    },
+    "academics": "Academics",
+    "academicsLinks": {
+      "prePrimary": "Pre-Primary",
+      "primary": "Primary",
+      "secondary": "Secondary",
+      "activities": "Co-curricular"
+    },
+    "contact": "Contact Details",
+    "addressLabel": "Address",
+    "hoursLabel": "School Hours",
+    "social": "Follow Us",
+    "newsletter": {
+      "eyebrow": "Stay Connected",
+      "title": "Get admission updates straight to your inbox",
+      "description": "Academic calendar, admission deadlines and event invitations — once a month, never spam.",
+      "placeholder": "your.email@example.com",
+      "submit": "Subscribe",
+      "note": "We respect your privacy. Unsubscribe with one click anytime."
+    },
+    "map": {
+      "eyebrow": "Visit Us",
+      "title": "Find our campus",
+      "directions": "Get directions"
+    },
+    "copyright": "© {year} {name}. All rights reserved.",
+    "legal": {
+      "privacy": "Privacy",
+      "terms": "Terms",
+      "sitemap": "Sitemap"
+    },
+    "credit": "Crafted with care for students, parents and educators."
+  }
+}

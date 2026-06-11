@@ -1,0 +1,118 @@
+/* ------------------------------------------------------------------
+ * Narayanleela — Global Stylesheet
+ *
+ * Order matters:
+ *   1. tailwindcss core
+ *   2. design-token CSS custom properties (variables.css)
+ *   3. typography utilities  (typography.css)
+ *   4. motion utilities      (animations.css)
+ *   5. Tailwind @theme bridge that maps CSS vars → Tailwind utilities
+ *   6. base layer (body defaults, focus ring, scrollbar)
+ * ------------------------------------------------------------------ */
+
+@import "tailwindcss";
+
+@import "../../styles/variables.css";
+@import "../../styles/typography.css";
+@import "../../styles/animations.css";
+
+@custom-variant dark (&:where(.dark, .dark *));
+
+/* ---- Tailwind v4 token bridge ---------------------------------- */
+@theme inline {
+  /* Colors */
+  --color-background: var(--color-background);
+  --color-foreground: var(--color-foreground);
+  --color-surface: var(--color-surface);
+  --color-surface-muted: var(--color-surface-muted);
+  --color-muted-foreground: var(--color-muted-foreground);
+  --color-border: var(--color-border);
+  --color-input: var(--color-input);
+  --color-ring: var(--color-ring);
+
+  --color-primary: var(--color-primary);
+  --color-primary-foreground: var(--color-primary-foreground);
+  --color-secondary: var(--color-secondary);
+  --color-secondary-foreground: var(--color-secondary-foreground);
+  --color-accent: var(--color-accent);
+  --color-accent-foreground: var(--color-accent-foreground);
+
+  --color-success: var(--color-success);
+  --color-warning: var(--color-warning);
+  --color-danger: var(--color-danger);
+
+  /* Typography */
+  --font-sans: var(--font-sans);
+  --font-display: var(--font-display);
+
+  /* Radii */
+  --radius-sm: var(--radius-sm);
+  --radius-md: var(--radius-md);
+  --radius-lg: var(--radius-lg);
+  --radius-xl: var(--radius-xl);
+  --radius-2xl: var(--radius-lg);
+  --radius-3xl: var(--radius-xl);
+
+  /* Shadows */
+  --shadow-sm: var(--shadow-sm);
+  --shadow-md: var(--shadow-md);
+  --shadow-lg: var(--shadow-lg);
+  --shadow-premium: var(--shadow-premium);
+}
+
+/* ---- Base layer ------------------------------------------------- */
+@layer base {
+  *,
+  *::before,
+  *::after {
+    border-color: var(--color-border);
+  }
+
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    background-color: var(--color-background);
+    color: var(--color-foreground);
+    font-family: var(--font-sans);
+    min-height: 100dvh;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    color: var(--color-foreground);
+    text-wrap: balance;
+  }
+
+  ::selection {
+    background-color: color-mix(in srgb, var(--color-primary) 25%, transparent);
+    color: var(--color-foreground);
+  }
+
+  :focus-visible {
+    outline: 2px solid var(--color-ring);
+    outline-offset: 2px;
+    border-radius: var(--radius-xs);
+  }
+
+  /* Custom, premium scrollbar (desktop only) */
+  @media (pointer: fine) {
+    ::-webkit-scrollbar {
+      width: 10px;
+      height: 10px;
+    }
+    ::-webkit-scrollbar-track {
+      background: var(--color-surface-muted);
+    }
+    ::-webkit-scrollbar-thumb {
+      background: color-mix(in srgb, var(--color-primary) 35%, transparent);
+      border-radius: var(--radius-pill);
+      border: 2px solid var(--color-surface-muted);
+    }
+    ::-webkit-scrollbar-thumb:hover {
+      background: var(--color-primary);
+    }
+  }
+}

@@ -1,0 +1,90 @@
+/* ------------------------------------------------------------------
+ * Narayanleela — Motion utilities
+ *
+ * Framer Motion handles the bulk of entry / exit animations.
+ * These CSS utilities cover the cases where a tiny, non-JS animation
+ * is preferable (hover affordances, marquee, gradient sheen, etc.)
+ *
+ * Allowed motion vocabulary: fade-up, scale-in, slide-up, hover-lift.
+ * Forbidden: particles, heavy parallax, 3D, GSAP, Lottie.
+ * ------------------------------------------------------------------ */
+
+@keyframes nl-fade-up {
+  from { opacity: 0; transform: translate3d(0, 16px, 0); }
+  to   { opacity: 1; transform: translate3d(0, 0, 0); }
+}
+
+@keyframes nl-fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+
+@keyframes nl-scale-in {
+  from { opacity: 0; transform: scale(0.96); }
+  to   { opacity: 1; transform: scale(1); }
+}
+
+@keyframes nl-slide-up {
+  from { opacity: 0; transform: translate3d(0, 32px, 0); }
+  to   { opacity: 1; transform: translate3d(0, 0, 0); }
+}
+
+@keyframes nl-shimmer {
+  0%   { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+.animate-fade-up {
+  animation: nl-fade-up var(--duration-base) var(--ease-enter) both;
+}
+
+.animate-fade-in {
+  animation: nl-fade-in var(--duration-base) var(--ease-enter) both;
+}
+
+.animate-scale-in {
+  animation: nl-scale-in var(--duration-base) var(--ease-enter) both;
+}
+
+.animate-slide-up {
+  animation: nl-slide-up var(--duration-slow) var(--ease-enter) both;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .hover-lift {
+    transition:
+      transform var(--duration-base) var(--ease-standard),
+      box-shadow var(--duration-base) var(--ease-standard);
+  }
+  .hover-lift:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-lg);
+  }
+}
+
+.shimmer {
+  background: linear-gradient(
+    90deg,
+    transparent 0%,
+    rgb(255 255 255 / 0.6) 50%,
+    transparent 100%
+  );
+  background-size: 200% 100%;
+  animation: nl-shimmer 1.6s linear infinite;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .animate-fade-up,
+  .animate-fade-in,
+  .animate-scale-in,
+  .animate-slide-up,
+  .shimmer {
+    animation: none !important;
+  }
+  .hover-lift {
+    transition: none !important;
+  }
+  .hover-lift:hover {
+    transform: none !important;
+  }
+}

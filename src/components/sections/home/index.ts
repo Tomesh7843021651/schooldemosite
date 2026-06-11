@@ -1,0 +1,12 @@
+export { Hero } from "./hero";
+export { Stats } from "./stats";
+export { WhyChooseUs } from "./why-choose-us";
+export { PrincipalMessage } from "./principal-message";
+export { AcademicPreview } from "./academics-preview";
+export { FacilitiesPreview } from "./facilities-preview";
+export { StudentLife } from "./student-life";
+export { Achievements } from "./achievements";
+export { Events } from "./events";
+export { GalleryPreview } from "./gallery-preview";
+export { Testimonials } from "./testimonials";
+export { AdmissionCTA } from "./admission-cta";
